@@ -1,9 +1,9 @@
-/* //Desarrolla un programa que calcule el promedio de tres notas ingresadas 
+/* Desarrolla un programa que calcule el promedio de tres notas ingresadas 
 por el usuario, solicitando también el nombre del alumno. Además, el 
 programa debe verificar si las notas ingresadas se encuentran dentro del 
 rango válido (por ejemplo, de 0 a 10). Una vez calculado el promedio de las 
 tres notas, el programa debe evaluar si dicho promedio es mayor o igual a 
-7.*/
+7. */
 
 
 let suma = 0;
